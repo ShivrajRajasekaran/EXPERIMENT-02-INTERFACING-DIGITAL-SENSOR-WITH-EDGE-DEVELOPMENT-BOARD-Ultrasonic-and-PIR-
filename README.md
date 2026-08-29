@@ -1,4 +1,4 @@
-# EXPERIMENT-02-INTERFACTING-DIGITAL-SENSOR-WITH-EDGE-DEVELOPMENT-BOARD-ULTRASONIC-AND-PIR-SENSOR-(RASPBERRYPI-PI4)
+<img width="1919" height="1079" alt="Screenshot 2026-08-01 153652" src="https://github.com/user-attachments/assets/8089111e-d25a-4af0-8e75-8f7f03bd239e" /># EXPERIMENT-02-INTERFACTING-DIGITAL-SENSOR-WITH-EDGE-DEVELOPMENT-BOARD-ULTRASONIC-AND-PIR-SENSOR-(RASPBERRYPI-PI4)
 ### NAME : SHIVRAJ R
 ### DEPARTMENT : CSE(IoT)
 ### ROLL NO : 212223110051 
@@ -179,22 +179,23 @@ while True:
 ![alt text](exp2Connec2.jpeg)
 
 #  FIGURE -08 CONSOLE
-## No Motion
+## ULTRASONIC
+<img width="1919" height="1079" alt="Screenshot 2026-08-01 162424" src="https://github.com/user-attachments/assets/113d1d39-7800-4e4b-a44c-2d9ea4b45205" />
 
-![alt text](exp2PIRnoMotion.jpeg)
-
-## Motion
-
-![alt text](exp2PIRmotion.jpeg)
+## PIR
+<img width="1919" height="1079" alt="Screenshot 2026-08-01 153652" src="https://github.com/user-attachments/assets/8ab654e9-e86a-4089-b30a-391314ea20b1" />
 
 # FIGURE -09 CLOUD 
-## No Motion
- 
-![alt text](<Screenshot 2026-07-25 115418.png>)
+## ULTRASONIC
+<img width="1917" height="1019" alt="Screenshot 2026-08-01 162406" src="https://github.com/user-attachments/assets/83ec1cff-8052-4e11-b2c8-dde5eece6790" />
 
-## Motion
+## PIR
 
-![alt text](<Screenshot 2026-07-25 115549.png>)
+<img width="1919" height="984" alt="Screenshot 2026-08-01 153614" src="https://github.com/user-attachments/assets/f6ff0332-9d78-4f15-b5e6-2b1be0d609e9" />
+
+
+<img width="1919" height="1028" alt="Screenshot 2026-08-01 153606" src="https://github.com/user-attachments/assets/a8f133be-60b3-4e65-9c17-3dae1c3ba89c" />
+
 
 ## RESULTS
 The Ultrasonic sensor and PIR sensor is connected to the Raspberry Pi 4 successfully and the distance and the motion detection is visualised in thingspeak confirming the proper interfacing of a digital output.
