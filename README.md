@@ -115,15 +115,17 @@ except KeyboardInterrupt:
 
 # FIGURE -04 Circuit : 
 
-![alt text](exp2Connec1.jpeg)
+
+<img width="1536" height="1536" alt="exp2Connec2" src="https://github.com/user-attachments/assets/6b60d912-cd8d-4ad3-aa2a-40cea0d8a35e" />
+
 
 #  FIGURE -05 Console
+<img width="1919" height="1079" alt="Screenshot 2026-08-01 162424" src="https://github.com/user-attachments/assets/1297be4d-7b22-4b49-b425-dea75259e618" />
 
-![alt text](exp2Ultra.jpeg)
 
 # FIGURE -06 Cloud
+<img width="1917" height="1019" alt="Screenshot 2026-08-01 162406" src="https://github.com/user-attachments/assets/6e7d1812-09e2-4dc1-80b2-0a81f957042e" />
 
-![alt text](<Screenshot 2026-07-25 113711.png>)
 
 # Experiment 2B
 ## PROGRAM (Python)
@@ -181,18 +183,10 @@ while True:
 
 
 #  FIGURE -08 CONSOLE
-## ULTRASONIC
-<img width="1919" height="1079" alt="Screenshot 2026-08-01 162424" src="https://github.com/user-attachments/assets/113d1d39-7800-4e4b-a44c-2d9ea4b45205" />
+<img width="1919" height="1079" alt="Screenshot 2026-08-01 153652" src="https://github.com/user-attachments/assets/9d04498b-c9b3-4343-9db5-3dfb1f9cc6db" />
 
-## PIR
-<img width="1919" height="1079" alt="Screenshot 2026-08-01 153652" src="https://github.com/user-attachments/assets/8ab654e9-e86a-4089-b30a-391314ea20b1" />
 
 # FIGURE -09 CLOUD 
-## ULTRASONIC
-<img width="1917" height="1019" alt="Screenshot 2026-08-01 162406" src="https://github.com/user-attachments/assets/83ec1cff-8052-4e11-b2c8-dde5eece6790" />
-
-## PIR
-
 <img width="1919" height="984" alt="Screenshot 2026-08-01 153614" src="https://github.com/user-attachments/assets/f6ff0332-9d78-4f15-b5e6-2b1be0d609e9" />
 
 
