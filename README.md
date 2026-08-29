@@ -176,7 +176,9 @@ while True:
 ### OUPUT  
 
 # FIGURE -07 CIRCUIT 
-![alt text](exp2Connec2.jpeg)
+
+<img width="1536" height="1536" alt="exp2Connec2" src="https://github.com/user-attachments/assets/5b419aea-da88-4fa6-9f0e-0cec491f031c" />
+
 
 #  FIGURE -08 CONSOLE
 ## ULTRASONIC
