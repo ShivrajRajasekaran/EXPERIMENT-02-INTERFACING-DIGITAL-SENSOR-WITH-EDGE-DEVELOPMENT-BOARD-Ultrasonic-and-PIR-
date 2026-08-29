@@ -183,7 +183,8 @@ while True:
 
 
 #  FIGURE -08 CONSOLE
-<img width="1919" height="1079" alt="Screenshot 2026-08-01 153652" src="https://github.com/user-attachments/assets/9d04498b-c9b3-4343-9db5-3dfb1f9cc6db" />
+<img width="1919" height="1079" alt="Screenshot 2026-08-01 153652" src="https://github.com/user-attachments/assets/5dd1fd91-dacb-4db8-b0ed-d25cc290633c" />
+
 
 
 # FIGURE -09 CLOUD 
